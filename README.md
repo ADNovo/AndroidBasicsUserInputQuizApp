@@ -1,4 +1,4 @@
-**Android Basics: User Interface Project** (Udacity)
+**Android Basics: User Interface - Quiz App Project** (Udacity)
 
 **Project Summary**
 
