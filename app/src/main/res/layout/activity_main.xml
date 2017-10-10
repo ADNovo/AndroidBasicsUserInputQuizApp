@@ -218,7 +218,5 @@
                 android:layout_marginTop="24dp" />
 
         </LinearLayout>
-
     </ScrollView>
-
 </RelativeLayout>
