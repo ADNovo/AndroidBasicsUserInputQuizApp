@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="intro">Check your scuba knowledge with the questions below.</string>
+
+    <!-- Strings question 1 -->
+    <string name="question_1_title">Question 1</string>
+    <string name="question_1">How do things appear underwater vs. what you’d see at the surface? (mark all that apply)</string>
+    <string name="question_1_answer_1">Closer</string>
+    <string name="question_1_answer_2">Smaller</string>
+    <string name="question_1_answer_3">Larger</string>
+    <string name="question_1_answer_4">More distant</string>
+
+    <!-- Strings question 2 -->
+    <string name="question_2_title">Question 2</string>
+    <string name="question_2">What is the depth limit for a PADI Open Water Diver?</string>
+    <string name="edit_text_hint">Input an integer number of meters</string>
+
+    <!-- Strings question 3 -->
+    <string name="question_3_title">Question 3</string>
+    <string name="question_3">What is the depth limit for a PADI Advanced Open Water Diver?</string>
+
+
+    <!-- Strings question 4 -->
+    <string name="question_4_title">Question 4</string>
+    <string name="question_4">A submerged object that neither sinks nor floats is</string>
+    <string name="question_4_answer_1">Absolutely buoyant</string>
+    <string name="question_4_answer_2">Positively buoyant</string>
+    <string name="question_4_answer_3">Neutrally buoyant</string>
+    <string name="question_4_answer_4">Negatively buoyant</string>
+
+    <!-- Strings question 5 -->
+    <string name="question_5_title">Question 5</string>
+    <string name="question_5">Which gas may cause the bends or DCS?</string>
+    <string name="question_5_answer_1">Carbon dioxide</string>
+    <string name="question_5_answer_2">Oxygen</string>
+    <string name="question_5_answer_3">Nitrogen</string>
+    <string name="question_5_answer_4">Carbon monoxide</string>
+
+    <!-- Strings question 6 -->
+    <string name="question_6_title">Question 6</string>
+    <string name="question_6">What should you do to prevent mask squeeze (a sucking or pulling feeling on your face and eyes)?</string>
+    <string name="question_6_answer_1">Make an ah-h-h-h sound</string>
+    <string name="question_6_answer_2">Pinch your nose and blow against it</string>
+    <string name="question_6_answer_3">Wiggle your jaw from side to side</string>
+    <string name="question_6_answer_4">Blow into your mask through your nose</string>
+
+    <!-- Submit answers button -->
+    <string name="submit_button">Submit</string>
+
+    <!-- Toast message  -->
+    <string name="toast_message">You got %1$d out of %2$d answers correct</string>
+</resources>
